@@ -9,7 +9,7 @@ Username: SynapseUser123
 
 
 
-Password: SynapseWareX
+Key: 2EBC9NBB8WNC0NXWNnwN1nc0EB0nx10n39V
 
 
 
